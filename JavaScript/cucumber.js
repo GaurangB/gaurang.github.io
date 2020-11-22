@@ -1,5 +1,6 @@
-var grow;
+
 window.addEventListener("load", function () {
+    var grow;
     grow = document.querySelector('.grow')
     console.log("Page Loaded ---");
 
